@@ -1,7 +1,7 @@
 # Coffee Advisor 
 
 <p align="center">
-  <img width="300" height="300" src="https://raw.githubusercontent.com/davidmarinangeli/ErmesAndroid/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+  <img width="300" height="300" src="https://raw.githubusercontent.com/davidmarinangeli/Coffee-Advisor/master/Asset%201%403x.png">
 </p>
 
 This webhook manage the Coffee Advisor app for Google Assistant. It's all written in Node.js 
