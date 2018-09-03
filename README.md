@@ -9,6 +9,11 @@ and uses the official libraries of Actions On Google (v2).
 
 It is deployed on Firebase Functions. Shout-out to my brother for the amazing icon :D.
 
+## Try it
+
+You can try the app in both English and Italian on the "Assistant Store": [Coffee Advisor](https://assistant.google.com/services/a/uid/000000f546605efb).
+
+
 ## Something about it
 
 Coffee Advisor is a project that came out of the blue during my usual research of coffee capsules for my Nespresso machine.
