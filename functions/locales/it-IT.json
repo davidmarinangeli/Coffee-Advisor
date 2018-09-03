@@ -1,0 +1,10 @@
+{
+  "welcome": {
+    "welcometext": "Benvenuto in Coffee Advisor. Come posso aiutarti? ",
+    "welcomeSSML": "<speak> Benvenuto in Coffee Advisor. Come posso aiutarti? </speak>"
+  },
+  "welcomeback": {
+    "welcomebacktext": "Bentornato! Di che capsule hai bisogno oggi?",
+    "welcomebackSSML": " <speak> Bentornato! Di che capsule hai bisogno oggi? </speak>"
+  }
+}
